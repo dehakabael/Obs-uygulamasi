@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Hp Zbook G6\\source\\repos\\ogrenc\u0131uygulamas\u0131\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84161040-5D83-4EA4-AA2B-3E3CCF89C3F6}|ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131.csproj|c:\\users\\hp zbook g6\\source\\repos\\ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84161040-5D83-4EA4-AA2B-3E3CCF89C3F6}|ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131.csproj|solutionrelative:ogrenc\u0131uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84161040-5D83-4EA4-AA2B-3E3CCF89C3F6}|ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131.csproj|c:\\users\\hp zbook g6\\source\\repos\\ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131\\ogrenc\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84161040-5D83-4EA4-AA2B-3E3CCF89C3F6}|ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131.csproj|solutionrelative:ogrenc\u0131uygulamas\u0131\\ogrenc\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84161040-5D83-4EA4-AA2B-3E3CCF89C3F6}|ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131.csproj|c:\\users\\hp zbook g6\\source\\repos\\ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84161040-5D83-4EA4-AA2B-3E3CCF89C3F6}|ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131.csproj|solutionrelative:ogrenc\u0131uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ogrenc\u0131.cs",
               "DocumentMoniker": "C:\\Users\\Hp Zbook G6\\source\\repos\\ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131\\ogrenc\u0131.cs",
               "RelativeDocumentMoniker": "ogrenc\u0131uygulamas\u0131\\ogrenc\u0131.cs",
               "ToolTip": "C:\\Users\\Hp Zbook G6\\source\\repos\\ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131\\ogrenc\u0131.cs",
               "RelativeToolTip": "ogrenc\u0131uygulamas\u0131\\ogrenc\u0131.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwB4AAAAJAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T18:53:45.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp Zbook G6\\source\\repos\\ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131\\Program.cs",
               "RelativeDocumentMoniker": "ogrenc\u0131uygulamas\u0131\\Program.cs",
               "ToolTip": "C:\\Users\\Hp Zbook G6\\source\\repos\\ogrenc\u0131uygulamas\u0131\\ogrenc\u0131uygulamas\u0131\\Program.cs",
               "RelativeToolTip": "ogrenc\u0131uygulamas\u0131\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwAoAAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T18:53:14.935Z",
               "EditorCaption": ""
