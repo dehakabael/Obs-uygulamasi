@@ -1,0 +1,14 @@
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\bin\Debug\net8.0\ogrencıuygulaması.exe
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\bin\Debug\net8.0\ogrencıuygulaması.deps.json
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\bin\Debug\net8.0\ogrencıuygulaması.runtimeconfig.json
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\bin\Debug\net8.0\ogrencıuygulaması.dll
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\bin\Debug\net8.0\ogrencıuygulaması.pdb
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\obj\Debug\net8.0\ogrencıuygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\obj\Debug\net8.0\ogrencıuygulaması.AssemblyInfoInputs.cache
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\obj\Debug\net8.0\ogrencıuygulaması.AssemblyInfo.cs
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\obj\Debug\net8.0\ogrencıuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\obj\Debug\net8.0\ogrencıuygulaması.dll
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\obj\Debug\net8.0\refint\ogrencıuygulaması.dll
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\obj\Debug\net8.0\ogrencıuygulaması.pdb
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\obj\Debug\net8.0\ogrencıuygulaması.genruntimeconfig.cache
+C:\Users\Hp Zbook G6\source\repos\ogrencıuygulaması\ogrencıuygulaması\obj\Debug\net8.0\ref\ogrencıuygulaması.dll
