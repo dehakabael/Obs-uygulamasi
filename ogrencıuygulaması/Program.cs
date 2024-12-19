@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             bool kontrol = true;
-            ogrencı öğrenci1 = new ogrencı(230910082, "Deha", "Kabael", 70, 55, 55, "Ufuküniversitesi");
+            ogrencı öğrenci1 = new ogrencı(230910000, "Name", "Surname", 70, 55, 55, "Ufuküniversitesi");
 
 
             Console.WriteLine("Obs uygulamsına hoş geldiniz");
